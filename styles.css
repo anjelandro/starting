@@ -1,0 +1,181 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 25px;
+    font-weight: bold;
+}
+
+.anch {
+    color: black;
+}
+
+nav {
+    background-color: #9fa8a3;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    z-index: 1;
+}
+
+main {
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: xx-large;
+}
+
+.h1 {
+    font-family: "Montserrat", sans-serif;
+}
+
+h2 {
+    text-decoration: underline;
+    font-weight: 600;
+    font-size: x-large;
+    font-family: "Montserrat", sans-serif;
+}
+
+#h2 {
+    text-decoration: none;
+}
+
+p {
+    font-weight: 300;
+    font-size: normal;
+}
+
+.pspecial {
+    font-weight: 400;
+}
+
+.colors {
+    border-top: 2px solid black;
+    position: relative;
+    bottom: 30px;
+}
+
+.color1 {
+    display: inline-block;
+    width: 32%;
+    background-color: #c5d5cb;
+}
+
+.color2 {
+    display: inline-block;
+    width: 32%;
+    background-color: #9fa8a3;
+}
+
+.color3 {
+    display: inline-block;
+    width: 32%;
+    background-color: #e3e0cf;
+}
+
+.fonts {
+    border-top: 2px solid black;
+    position: relative;
+    bottom: 30px;
+}
+
+.fonts1 {
+    display: inline-block;
+    width: 32%;
+}
+
+.robotitle {
+    text-decoration: underline;
+    font-family: "Roboto", sans-serif;
+}
+
+.roboregular {
+    font-family: "Roboto" sans-serif;
+}
+
+.roboitalic {
+    font-family: "Roboto" sans-serif;
+    font-style: italic;
+}
+
+.robobold {
+    font-family: "Roboto" sans-serif;
+    font-weight: 700;
+}
+
+.fonts2 {
+    display: inline-block;
+    width: 32%;
+}
+
+.ostitle {
+    font-family: "Open Sans", sans-serif;
+    text-decoration: underline;
+}
+
+.osregular {
+    font-family: "Open Sans", sans-serif;
+}
+
+.ositalic {
+    font-family: "Open Sans", sans-serif;
+    font-style: italic;
+}
+
+.osbold {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+}
+
+.fonts3 {
+    display: inline-block;
+    width: 32%;
+}
+
+.monttitle {
+    font-family: "Montserrat", sans-serif;
+    text-decoration: underline;
+}
+
+.montregular {
+    font-family: "Montserrat", sans-serif;
+}
+
+.montitalic {
+    font-family: "Montserrat", sans-serif;
+    font-style: italic;
+}
+
+.montbold {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+}
+
+.styles {
+    border-top: 2px solid black;
+    position: relative;
+    bottom: 30px;
+}
+
+.styles1 {
+    display: inline-block;
+    width: 32%;
+}
+
+.styles2 {
+    display: inline-block;
+    width: 32%;
+}
+
+.styles3 {
+    display: inline-block;
+    width: 32%;
+}
